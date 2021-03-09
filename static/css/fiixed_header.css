@@ -1,0 +1,6 @@
+
+<link href="{%static 'css/responsive.css'%}" rel=stylesheet">
+<link href="{%static 'css/style.css'%}" rel=stylesheet">
+<link href="{%static 'css/slick-theme.css'%}" rel=stylesheet">
+<script src="{% static 'js/sortable.js' %}"></script>
+<script src="{%static 'js/app.js' %}"></script>
